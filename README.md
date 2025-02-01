@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahil-datascience
+- 👋 Hi, I’m Sahil
 - 👀 I’m interested in data science method's application in tourism research
 - 🌱 I’m currently learning natural language processing (NLP)
 - 💞️ I’m looking to collaborate on tourism or data science method related research
