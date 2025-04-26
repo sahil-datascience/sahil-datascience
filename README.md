@@ -4,7 +4,7 @@
 - 🌱 I've recently completed data science specialisation course offered by JHU on coursera in R programming
 - 💞️ I’m looking to collaborate on tourism or data science method related research
 - 📫 How to reach me: sahilsharmahimalaya@gmail.com
-- Personal Website: sahil-datascience.github.io 
+- Personal Website: [sahil-datascience.github.io ](https://sahil-datascience.github.io/)
 - 😄 Pronouns: HE
 - ⚡ Fun fact: ?
 
